@@ -35,7 +35,9 @@ highlight_name: true
 title: Yannick Sandoz
 email: ""
 ---
-Yannick Sandoz teaches at MJB in Biel, Switzerland. His research interests include various styles of music, writing, recording with digital audio workstations and programmable matter. He helps students in their learning process, to play the musical style they wish.
+Yannick Sandoz teaches at MJB in Biel, Switzerland. 
+
+His research interests include various styles of music, writing, recording with digital audio workstations and programmable matter. He helps students in their learning process, to play the musical style they wish.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
