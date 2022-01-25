@@ -1,5 +1,5 @@
 ---
-role: Music teacher, (bass & piano).
+role: Music teacher, bass & piano.
 bio: My research interests include various styles of music, writing, recording
   with digital audio workstations and programmable matter.
 interests:
